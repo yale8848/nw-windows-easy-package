@@ -1,0 +1,27 @@
+﻿{
+    "name": "Demo",
+    "main": "index.html",
+    "node-main": "node-main.js",
+
+    "node-remote":"*.*",
+    "webkit": {
+        "page-cache":false,
+        "plugin":true
+    },
+   "verison":"1.1.1.1",
+    "single-instance":false,
+    "window": {
+        "icon": "app.png",
+        "width": 900,
+        "height": 600,
+        "frame": true,
+        "kiosk":false,
+        "toolbar": false,
+        "title":"Demo",
+        "position":"center",
+        "resizable":true,
+        /*"always-on-top":true,*/
+        "show_in_taskbar":true
+    },
+    "user-agent": "%name %ver %nwver %webkit_ver %osinfo"
+}

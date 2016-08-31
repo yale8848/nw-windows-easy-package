@@ -1,0 +1,1 @@
+signtool.exe sign /f "./<xxx>.pfx" /p <password> /t http://timestamp.verisign.com/scripts/timstamp.dll "./<xxx>.exe"

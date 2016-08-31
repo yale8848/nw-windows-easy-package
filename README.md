@@ -22,5 +22,8 @@ node-webkit windows easy package
 -tools
 
     第三方工具
+    
+#blog
+[http://my.oschina.net/yale8848/blog/740361](http://my.oschina.net/yale8848/blog/740361)
 
 

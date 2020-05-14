@@ -22,8 +22,16 @@ node-webkit windows easy package
 -tools
 
     第三方工具
-    
+
+# download
+
+v0.13.4 是支持xp的最后一个版本
+
+https://dl.nwjs.io/v0.12.3/   
+
+
 #blog
+
 [http://my.oschina.net/yale8848/blog/740361](http://my.oschina.net/yale8848/blog/740361)
 
 
